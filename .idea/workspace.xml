@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d0fd61-34c4-4aaf-a0bd-555d8c44798d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CartItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Categories.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PizzaBlock/LoadingBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PizzaBlock/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/action/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/action/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/action/pizzas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/pizzas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2LaHFoZRIKaSnNFNkFpo9r9tFp1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PolyUser/Desktop/Proj/pizza/src/redux/action&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PolyUser\Desktop\Proj\pizza\src\redux\action" />
+      <recent name="C:\Users\PolyUser\Desktop\Proj\pizza\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PolyUser\Desktop\Proj\pizza\src\components\PizzaBlock" />
+      <recent name="C:\Users\PolyUser\Desktop\Proj\pizza\src\components" />
+      <recent name="C:\Users\PolyUser\Desktop\Proj\pizza\src\components\Header" />
+      <recent name="C:\Users\PolyUser\Desktop\Proj\pizza\src\assets" />
+      <recent name="C:\Users\PolyUser\Desktop\Proj\pizza\src\scss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d0fd61-34c4-4aaf-a0bd-555d8c44798d" name="Changes" comment="" />
+      <created>1676102171265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676102171265</updated>
+      <workItem from="1676102172540" duration="91000" />
+      <workItem from="1676102274260" duration="9803000" />
+      <workItem from="1676113090981" duration="27000" />
+      <workItem from="1676196480403" duration="16546000" />
+      <workItem from="1676305714111" duration="6107000" />
+      <workItem from="1676480162621" duration="5951000" />
+      <workItem from="1676561410346" duration="126000" />
+      <workItem from="1676561573645" duration="8826000" />
+      <workItem from="1676816155308" duration="6810000" />
+      <workItem from="1676994833563" duration="9593000" />
+      <workItem from="1678267794640" duration="735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
